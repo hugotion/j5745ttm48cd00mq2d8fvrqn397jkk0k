@@ -1,7 +1,6 @@
 ---
 description: |
-  MDFriday allows everyone to build professional, secure, multilingual sites—no need to worry about SSL certificates, servers, SEO, or security.
-  Just a few clicks, and your website is ready.
+  Hugo is an amazing way to create sites fast!
 address: "Wuhan, China"
 links:
   - "Resources, Pricing, /pricing, false"   
